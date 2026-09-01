@@ -1,58 +1,107 @@
-<h1>⏱️ Cronômetro</h1>
+# ⏱️ Cronômetro
 
-<h2>Projeto desenvolvido para praticar JavaScript, HTML e CSS através da criação de um cronômetro funcional.
+Aplicação Front-End desenvolvida com **HTML5, CSS3 e JavaScript** que permite iniciar, pausar e reiniciar a contagem do tempo através de uma interface simples e responsiva.
 
-O objetivo foi treinar manipulação do DOM, controle de tempo e interação com o usuário utilizando JavaScript.</h2>
+O projeto foi desenvolvido para praticar conceitos fundamentais de JavaScript, principalmente controle de tempo, eventos e atualização dinâmica da interface.
 
-<br>
+---
 
-<h1>🚀 Sobre o Projeto</h1>
+## 📸 Preview
 
-<h2>O cronômetro possui as seguintes funcionalidades:
-  <br>
-  <br>
-- ▶️ Iniciar contagem do tempo
-  <br>
-- ⏸️ Pausar a qualquer momento
-  <br>
-- 🔄 Reiniciar cronômetro
-  <br>
-- ⏱️ Atualização dinâmica do tempo em tela
-  <br>
-- 🎨 Interface simples e responsiva</h2>
+![Cronômetro](https://github.com/msm1996/Cronometro-projeto/blob/main/Captura%20de%20tela%202025-09-08%20222906.png?raw=true)
 
-<br>
+---
 
-<h1>🛠️ Tecnologias utilizadas</h1>
+## 🚀 Sobre o projeto
 
-<h2>- HTML5
-  <br>
-- CSS3
-  <br>
-- JavaScript</h2>
+O **Cronômetro** foi desenvolvido como um projeto de estudo para colocar em prática conceitos fundamentais do desenvolvimento Front-End com JavaScript.
 
-<br>
+A aplicação permite controlar a contagem do tempo através de botões para iniciar, pausar e reiniciar o cronômetro.
 
-<h1>🧠 Aprendizados</h1>
+Durante a execução, o JavaScript controla o tempo e atualiza dinamicamente as informações apresentadas na interface.
 
-<h2>Neste projeto pratiquei:
-  <br>
-  <br>
-- Manipulação do DOM
-  <br>
-- Controle de tempo com JavaScript
-  <br>
-- Eventos de clique
-  <br>
+---
+
+## ✨ Funcionalidades
+
+- ▶️ Iniciar a contagem do tempo
+- ⏸️ Pausar o cronômetro
+- 🔄 Reiniciar a contagem
+- ⏱️ Atualização dinâmica do tempo
+- 🖱️ Interação através de eventos
+- 🎨 Interface simples e intuitiva
+- 📱 Layout responsivo
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- **HTML5** — estruturação da aplicação
+- **CSS3** — estilização e responsividade
+- **JavaScript** — lógica e controle do cronômetro
+- **DOM** — atualização dinâmica das informações na interface
+
+---
+
+## 🧠 O que pratiquei neste projeto
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos fundamentais de JavaScript e desenvolvimento Front-End, como:
+
 - Lógica de programação
-  <br>
+- Manipulação do DOM
+- Eventos de clique
+- Controle de tempo com JavaScript
+- Funções
+- Atualização dinâmica da interface
+- Manipulação de valores
 - Estruturação de páginas com HTML
-  <br>
 - Estilização com CSS
-  <br>
-- Organização de projetos web</h2>
+- Responsividade
+- Organização de projetos Front-End
 
-<br>
+---
 
-<h2>📸 Imagem do projeto:</h2> 
-<img src= "https://github.com/msm1996/Cronometro-projeto/blob/main/Captura%20de%20tela%202025-09-08%20222906.png?raw=true">
+## ⚙️ Como funciona
+
+O funcionamento da aplicação segue um fluxo simples:
+
+1. O usuário inicia o cronômetro.
+2. O JavaScript controla a contagem do tempo.
+3. A interface é atualizada dinamicamente.
+4. O usuário pode pausar a contagem quando desejar.
+5. A opção de reiniciar retorna o cronômetro ao estado inicial.
+
+---
+
+## 💻 Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/msm1996/Cronometro-projeto.git
+```
+
+Entre na pasta:
+
+```bash
+cd Cronometro-projeto
+```
+
+Abra o arquivo:
+
+```text
+index.html
+```
+
+no navegador.
+
+---
+
+## 👨‍💻 Autor
+
+**Myke Santana Martins**
+
+Desenvolvedor Front-End em formação, criando projetos com foco em **React.js, JavaScript, HTML5, CSS3 e integração com APIs REST**.
+
+- GitHub: https://github.com/MykeMartins96
+- LinkedIn: https://www.linkedin.com/in/myke-santana-martins
